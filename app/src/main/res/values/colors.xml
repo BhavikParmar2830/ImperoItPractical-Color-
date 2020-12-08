@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="txtColor">#0F2C5E</color>
+
+    <color name="six_one">#C78841</color>
+    <color name="six_two">#C36728</color>
+    <color name="six_three">#B1454E</color>
+    <color name="six_four">#91265C</color>
+    <color name="six_five">#831B50</color>
+
+    <color name="five_one">#D29E4A</color>
+    <color name="five_two">#9F974F</color>
+    <color name="five_three">#656032</color>
+    <color name="five_four">#377166</color>
+    <color name="five_five">#356972</color>
+
+    <color name="four_one">#DE9248</color>
+    <color name="four_two">#EB773D</color>
+    <color name="four_three">#D0552B</color>
+    <color name="four_four">#CE524A</color>
+    <color name="four_five">#D33246</color>
+
+    <color name="three_one">#FEF09E</color>
+    <color name="three_two">#E6D9C9</color>
+    <color name="three_three">#B193B8</color>
+    <color name="three_four">#96669F</color>
+    <color name="three_five">#773F81</color>
+
+    <color name="two_one">#FDEF74</color>
+    <color name="two_two">#F4F979</color>
+    <color name="two_three">#E0EA6A</color>
+    <color name="two_four">#A4CD9C</color>
+    <color name="two_five">#86BC99</color>
+
+    <color name="one_one">#2E5997</color>
+    <color name="one_two">#1E3C67</color>
+    <color name="one_three">#605889</color>
+    <color name="one_four">#4C466C</color>
+    <color name="one_five">#2E2B42</color>
+
+
+</resources>
